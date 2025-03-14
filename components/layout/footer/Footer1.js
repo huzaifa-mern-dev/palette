@@ -132,7 +132,7 @@ export default function Footer1() {
                 <div className="container">
                     <div className="site-footer__bottom-inner">
                         <p className="site-footer__bottom-text">© 2025
-                            Copyright <Link href="#">Palette.</Link> | All rights reserved</p>
+                            Copyright <Link href="https://muhammadhuzaifa.me">Muhammad Huzaifa.</Link> | All rights reserved</p>
                         <ul className="list-unstyled site-footer__bottom-menu">
                             <li><Link href="about">Privacy & Policy</Link></li>
                             <li><Link href="about">Terms of use</Link></li>
