@@ -31696,7 +31696,7 @@ a.video-popup {
   animation-duration: 2s;
   -webkit-animation-iteration-count: infinite;
   animation-iteration-count: infinite;
-  background-image: url("/_next/static/media/loader.55ce83b8.png");
+  background-image: url("../images/loader.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: 60px;
